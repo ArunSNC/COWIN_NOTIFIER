@@ -5,7 +5,6 @@ const nodemailer = require('nodemailer');
 const usersData = require('./users_data.json');
 
 const cron = require('node-cron');
-const { response } = require('express');
 
 process.env["NODE_TLS_REJECT_UNAUTHORIZED"] = 0;
 let transporter = nodemailer.createTransport({
