@@ -1,0 +1,56 @@
+{
+    "entities": [
+        {
+            "cityID" : "294",
+            "cityName": "BBMP",
+            "users"  : {
+                "above18": [
+                    "arunkumarsnc99@outlook.com",
+                    "raghurules99@gmail.com",
+                    "Sri276@gmail.com",
+                    "Rkiran999@gmail.com",
+                    "reshmashaik6199@gmail.com"
+                ] ,
+                "above45": [
+                    "sncskumar@gmail.com",
+                    "raghurules99@gmail.com"
+                ]
+
+            }
+                
+        },
+        {
+            "cityID" : "265",
+            "cityName": "Bangalore Urban",
+            "users"  : {
+                "above18": [
+                    "arunkumarsnc99@outlook.com",
+                    "raghurules99@gmail.com",
+                    "Sri276@gmail.com",
+                    "Rkiran999@gmail.com",
+                    "reshmashaik6199@gmail.com"
+                ] ,
+                "above45": [
+                    "raghurules99@gmail.com"
+                ]
+
+            }
+        },
+        {
+            "cityID" : "8",
+            "cityName": "Visakhapatnam",
+            "users"  : {
+                "above18": [
+                    "iamtejacool@gmail.com",
+                    "stpk.tarun@gmail.com"
+                ] ,
+                "above45": [
+                    "sncskumar@gmail.com",
+                    "raghurules99@gmail.com"
+                ]
+
+            }
+                
+        }
+    ]
+}
